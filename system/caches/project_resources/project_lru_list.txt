@@ -1,0 +1,4 @@
+.androidstudio4.0.2a142ef1
+myapplication2.da7b1d1c
+primerproyecto.9b1f8ac3
+myapplication.739403d9

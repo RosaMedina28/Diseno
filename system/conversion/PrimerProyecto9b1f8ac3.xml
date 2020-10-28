@@ -1,0 +1,60 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="android-sdk-library" />
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-native-run-configurations" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" timestamp="1600796964398" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" timestamp="1600796963657" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1600796964661" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_test_runner_1_3_0_aar.xml" timestamp="1600796964469" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1600796964088" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1600796964319" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_core_core_1_3_1_aar.xml" timestamp="1600796963902" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1600796963751" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_test_core_1_3_0_aar.xml" timestamp="1600796964344" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\modules.xml" timestamp="1600796963428" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_2_aar.xml" timestamp="1600796964419" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1600796964631" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_test_monitor_1_3_0_aar.xml" timestamp="1600796964434" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\modules\PrimerProyecto.iml" timestamp="1600796963030" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1600796963633" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1600796964169" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\modules\app\app.iml" timestamp="1601930310156" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1600796964483" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1600796964497" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\jarRepositories.xml" timestamp="1600796963467" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\workspace.xml" timestamp="1601930310193" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1600796963921" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" timestamp="1600796963679" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" timestamp="1600796964384" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1600796964301" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1600796964280" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1600796964618" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\gradle.xml" timestamp="1601777794452" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1600796963962" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\runConfigurations.xml" timestamp="1600796963527" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1600796963774" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1600796964515" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1600796964191" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1600796963711" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1600796964538" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1600796964110" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1600796964600" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1600796964053" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1600796964679" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1600796964702" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1600796963587" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1600796964011" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1_jar.xml" timestamp="1600796963864" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_2_0_1_aar.xml" timestamp="1600796963797" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1600796964587" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\misc.xml" timestamp="1601930310250" />
+    <file path="C:\Users\rosa2\AndroidStudioProjects\PrimerProyecto\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1600796963948" />
+  </project-files>
+</conversion>
